@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Estudios de Estado Estable - Néstor D. Vargas',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Néstor D. Vargas',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',

@@ -17,7 +17,8 @@ export default siteConfig({
   description: 'Portfolio',
 
   // social usernames (optional)
-  twitter: 'darggic',
+  //twitter: 'darggic',
+  email: 'nestorvargas',
   github: 'darggic',
   linkedin: 'nestordvargas',
   researchgate: 'Nestor-D-Vargas'

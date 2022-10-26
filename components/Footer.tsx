@@ -84,15 +84,15 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
         
-         {config.github && (
+         {config.researchgate && (
           <a
-            className={styles.github}
-            href={`https://github.com/${config.github}`}
-            title={`GitHub @${config.github}`}
+            className={styles.researchgate}
+            href={`https://www.researchgate.net/${config.researchgate}`}
+            title={`ResearchGate @${config.researchgate}`}
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FaGithub />
+            <FaResearchGate />
           </a>
         )}
 

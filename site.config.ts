@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'darggic',
-  github: 'darggic',
+  //github: 'darggic',
   linkedin: 'nestordvargas',
 
   // default notion icon and cover images for site-wide consistency (optional)

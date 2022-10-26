@@ -21,7 +21,8 @@ export default siteConfig({
   email: 'nestorvargas',
   github: 'darggic',
   linkedin: 'nestordvargas',
-  researchgate: 'Nestor-D-Vargas'
+  researchgate: 'Nestor-D-Vargas',
+  facebook: 'David Calo',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

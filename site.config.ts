@@ -18,11 +18,11 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'NestorDVargas',
-  email: 'nestorvargas',
+  //email: 'nestorvargas',
   github: 'darggic',
   linkedin: 'nestordvargas',
-  researchgate: 'Nestor-D-Vargas',
-  facebook: 'davidvcalo',
+  //researchgate: 'Nestor-D-Vargas',
+  //facebook: 'davidvcalo',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

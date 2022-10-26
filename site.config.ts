@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Néstor D. Vargas | Portfolio',
+  name: 'NestorDVargas-Portfolio',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Néstor D. Vargas',
+  author: 'NestorDVargas',
 
   // open graph metadata (optional)
   description: 'Portfolio',

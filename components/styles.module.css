@@ -105,6 +105,10 @@
   color: #0077b5;
 }
 
+.researchgate:hover {
+  color: #5cfaae;
+}
+
 .comments {
   width: 100%;
   margin-top: 2em;

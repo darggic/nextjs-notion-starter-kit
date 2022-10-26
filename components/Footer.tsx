@@ -84,8 +84,8 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
         
-         {config.researchgate && (
-          <a
+<!--         {config.researchgate && (
+         <a
             className={styles.researchgate}
             href={`https://www.researchgate.net/${config.researchgate}`}
             title={`ResearchGate @${config.researchgate}`}
@@ -94,7 +94,7 @@ export const FooterImpl: React.FC = () => {
           >
             <FaResearchGate />
           </a>
-        )}
+        )} -->
 
         {config.linkedin && (
           <a

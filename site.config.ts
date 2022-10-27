@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'NestorDVargas-Portfolio',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'NestorDVargas',
+  author: 'Néstor D. Vargas',
 
   // open graph metadata (optional)
   description: 'Portfolio',
